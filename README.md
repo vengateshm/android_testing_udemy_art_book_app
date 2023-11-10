@@ -1,2 +1,2 @@
-# android_testing_udemy_art_book_app
+# Android Testing Udemy Art Book App
 This project contains source code of android testing course in udemy
